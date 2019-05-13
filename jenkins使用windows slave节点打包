@@ -8,4 +8,4 @@ jenkins的master节点：centos6.8，有个项目需要用windows系统提供服
     希望将执行的启动脚本，在win7上显示GUI窗口，此为会话1.
     需要借助psexec程序来完成会话传递过程。
 我的配置如图：
-    ![image](https://github.com/cxhzcxhz/Scattered-knowledge-pointsc/raw/master/images/jenkins1.png)
+    ![image](https://raw.githubusercontent.com/cxhzcxhz/Scattered-knowledge-points/master/images/jenkins1.png)
