@@ -11,7 +11,6 @@ jenkins的master节点：centos6.8，有个项目需要用windows系统提供服
     psexec工具路径:
         https://github.com/cxhzcxhz/Scattered-knowledge-points/blob/master/tools/PSTools.zip
 我的配置如图：
-    ![jenkins](images/jenkins1.png "配置实例")
     https://github.com/cxhzcxhz/Scattered-knowledge-points/blob/master/images/jenkins1.png
 我的bat命令：
     D:\app\config-files\PSTools\psexec.exe -i 1 cmd /c start java -jar D:\app\flow-survey-report\flow-survey-report-1.0.0-SNAPSHOT.jar
@@ -22,5 +21,5 @@ jenkins执行节本完成后，如图：
 此时在win7系统上出现了项目启动时的窗口。
 
 参考链接：
-    [https://stackoverflow.com/questions/22602951/open-excel-on-jenkins-ci/22610664#22610664](https://stackoverflow.com/questions/22602951/open-excel-on-jenkins-ci/22610664#22610664)
+    https://stackoverflow.com/questions/22602951/open-excel-on-jenkins-ci/22610664#22610664
  
