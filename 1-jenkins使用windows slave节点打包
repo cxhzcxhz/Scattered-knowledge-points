@@ -1,4 +1,4 @@
-##我的应用场景：
+我的应用场景：
 jenkins的master节点：centos6.8，有个项目需要用windows系统提供服务，所以添加了widows slave节点（win7），并在windows slave节点上安装好所需要的环境，
 如maven、git、jenkin服务等。并在master节点上，通过label标签选择指定的windows slave节点运行执行项目。
 遇到的问题：
@@ -21,5 +21,3 @@ jenkins执行节本完成后，如图：
 此时在win7系统上出现了项目启动时的窗口。
 
 参考链接:https://stackoverflow.com/questions/22602951/open-excel-on-jenkins-ci/22610664#22610664
-项目的github地址: https://github.com/helm/helm
-项目的github地址: https://github.com/helm/helm
