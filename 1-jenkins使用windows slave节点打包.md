@@ -11,8 +11,8 @@ jenkins的master节点：centos6.8，有个项目需要用windows系统提供服
     我使用的jenkins的master节点上执行打包操作，在windows slave节点上win7系统上运行此job，此为会话0.
     希望将执行的启动脚本，在win7上显示GUI窗口，此为会话1.
     需要借助psexec程序来完成会话传递过程。
-    
-    `psexec`工具路径:
+**依赖工具    
+    psexec工具路径:
         https://github.com/cxhzcxhz/Scattered-knowledge-points/blob/master/tools/PSTools.zip
         
 我的配置如图：
