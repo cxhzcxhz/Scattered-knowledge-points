@@ -4,6 +4,8 @@
 
 
   [root@docker2 ~]# ip link delete cni0
+  
+  
   [root@docker2 ~]# ip link delete flannel.1
   
   
